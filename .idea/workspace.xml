@@ -49,9 +49,18 @@
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+=======
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/test/Main.java">
+=======
+>>>>>>> 340880a4ec2bda984807be89e816d04e2c404168
         <entry file="file://$PROJECT_DIR$/src/com/greenfox/Main.java">
+>>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -98,10 +107,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="155" />
+    <option name="y" value="55" />
+    <option name="width" value="1100" />
+    <option name="height" value="1105" />
+=======
     <option name="x" value="689" />
     <option name="y" value="13" />
     <option name="width" value="683" />
     <option name="height" value="688" />
+>>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -140,6 +156,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547472674323" />
   </component>
   <component name="RunDashboard">
@@ -153,6 +170,20 @@
         </RuleState>
       </list>
     </option>
+=======
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547472125442" />
+  </component>
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Hello" />
+      <module name="verylastgit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547472128404" />
+>>>>>>> 340880a4ec2bda984807be89e816d04e2c404168
   </component>
   <component name="RunManager" selected="Application.Greet">
     <configuration name="Greet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -161,6 +192,7 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.greenfox.*" />
+>>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,7 +201,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+<<<<<<< HEAD
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+=======
       <option name="MAIN_CLASS_NAME" value="com.greenfox.Main" />
+>>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
       <module name="verylastgit" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -180,11 +216,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+<<<<<<< HEAD
+      <item itemvalue="Application.Hello" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+=======
       <item itemvalue="Application.Greet" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Greet" />
+>>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
