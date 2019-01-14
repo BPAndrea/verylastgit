@@ -50,17 +50,29 @@
   </component>
   <component name="FileEditorManager">
 <<<<<<< HEAD
+    <<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <file pinned="false" current-in-tab="false">
+    =======
+=======
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
 =======
+>>>>>>> bbcf2810a71daadfe12545205e7b10bb9ea13b81
     <leaf>
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
-<<<<<<< HEAD
+        <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/test/Main.java">
+<<<<<<< HEAD
+        =======
+        >>>>>>> 340880a4ec2bda984807be89e816d04e2c404168
+=======
 =======
 >>>>>>> 340880a4ec2bda984807be89e816d04e2c404168
+>>>>>>> bbcf2810a71daadfe12545205e7b10bb9ea13b81
         <entry file="file://$PROJECT_DIR$/src/com/greenfox/Main.java">
->>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
+          >>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -71,6 +83,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/greenfox/Greet.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/greenfox/Greet.java">
+          <provider selected="true" editor-type-id="text-editor">
+>>>>>>> bbcf2810a71daadfe12545205e7b10bb9ea13b81
             <state relative-caret-position="153">
               <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding>
@@ -107,17 +131,20 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-<<<<<<< HEAD
+    <<<<<<< HEAD
     <option name="x" value="155" />
     <option name="y" value="55" />
     <option name="width" value="1100" />
     <option name="height" value="1105" />
-=======
+    =======
     <option name="x" value="689" />
     <option name="y" value="13" />
     <option name="width" value="683" />
     <option name="height" value="688" />
->>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
+    >>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -157,6 +184,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
 <<<<<<< HEAD
+    <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> bbcf2810a71daadfe12545205e7b10bb9ea13b81
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547472674323" />
   </component>
   <component name="RunDashboard">
@@ -170,20 +201,29 @@
         </RuleState>
       </list>
     </option>
+<<<<<<< HEAD
+    =======
+    <<<<<<< HEAD
+=======
 =======
 <<<<<<< HEAD
+>>>>>>> bbcf2810a71daadfe12545205e7b10bb9ea13b81
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547472125442" />
   </component>
   <component name="RunManager" selected="Application.Hello">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Hello" />
-      <module name="verylastgit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-=======
+    <option name="MAIN_CLASS_NAME" value="test.Hello" />
+    <module name="verylastgit" />
+    <extension name="coverage">
+    <pattern>
+    <option name="PATTERN" value="test.*" />
+    =======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547472128404" />
+<<<<<<< HEAD
+    >>>>>>> 340880a4ec2bda984807be89e816d04e2c404168
+=======
 >>>>>>> 340880a4ec2bda984807be89e816d04e2c404168
+>>>>>>> bbcf2810a71daadfe12545205e7b10bb9ea13b81
   </component>
   <component name="RunManager" selected="Application.Greet">
     <configuration name="Greet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -192,7 +232,7 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.greenfox.*" />
->>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
+          >>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +241,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <option name="MAIN_CLASS_NAME" value="test.Main" />
-=======
+      =======
       <option name="MAIN_CLASS_NAME" value="com.greenfox.Main" />
->>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
+      >>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
       <module name="verylastgit" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -216,19 +256,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <item itemvalue="Application.Hello" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Application.Hello" />
-=======
+    <list>
+      <item itemvalue="Application.Hello" />
+      =======
       <item itemvalue="Application.Greet" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Greet" />
->>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
+        >>>>>>> dbce1b7aca5d92c7789aed4aad56007241f3c679
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -311,4 +351,8 @@
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> bbcf2810a71daadfe12545205e7b10bb9ea13b81
